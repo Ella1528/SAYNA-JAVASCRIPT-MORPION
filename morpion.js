@@ -1,7 +1,7 @@
 //recuperer les elements//
 let griditem = [...document.getElementsByClassName("grid-item")];
 
-let tour = 'x'
+let tour = 'x';
 // transformer le id en un tableau en javascript//
 let tab = Array.from(griditem)
 // les conditions pour gagner le jeu//
